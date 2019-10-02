@@ -1,0 +1,53 @@
+body{
+	margin:0;
+	padding:0;
+	background-color: #6666ff;
+}
+
+.container{
+
+}
+
+.menu{
+	display: flex;
+	justify-content: space-around;
+	color: white;
+}
+
+.welcome{
+	font-family: Century Gothic;
+	font-size: 5vh;
+}
+
+.click{
+	font-family: Arial;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+
+button{ 
+    height:10vh;
+    width: 15vw;
+    font-size:24px;
+    color:white;
+    border:0px;
+    border-radius: 15px;
+    background-color:burlywood;
+}
+
+button:hover{
+background-color: #cc66ff;
+color:white;
+}
+
+.facts{
+	background-color: white;
+	opacity: 0.5;
+	color: black;
+	font-family: Arial;
+}
+
+.facts li{
+	font-size: 3vh;
+}
