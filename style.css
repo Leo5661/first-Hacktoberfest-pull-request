@@ -1,0 +1,22 @@
+button { 
+    height: 100px;
+    width: 200px;
+    font-size: 24px;
+    color: white;
+    border: 0px;
+    border-radius: 25%;
+    background-color: burlywood;
+}
+button:hover {
+    background-color: black;
+    color: white;
+}
+body {
+    background-color: rgb(200, 200, 15);
+}
+h1 {
+    color:rgb(150, 0, 0);
+}
+h2 {
+    color:rgb(156, 8, 161)";
+}
