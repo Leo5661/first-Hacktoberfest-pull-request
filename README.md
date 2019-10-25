@@ -7,7 +7,7 @@
 ## Step 1: Star this [repo](https://github.com/Leo5661/first-Hacktoberfest-pull-request) and share it with your friends.
 ## Step 2: Fork it using your github id.
 ## Step 3: Clone by using [git clone URL(of your rep)] or Download it from your forked repo.
-## Step 4: Just open "[index.html](https://github.com/Leo5661/first-Hacktoberfest-pull-request/blob/master/index.html)" and include your one   friend name and one funny fact about it in [ol] as given in comment
+## Step 4: Just open "[index.html](https://github.com/Leo5661/first-Hacktoberfest-pull-request/blob/master/index.html)" and include your one friend name and one funny fact about it in [ol] as given in comment
 ## Step 3: After changing it first check status by using [git status].
 ## Step 4: Create another branch of your name by using [git branch your-name] and [git checkout name-of-branch]
 ## Step 5: Add all your change by using [git add .] or a file by using [git add file-name].
